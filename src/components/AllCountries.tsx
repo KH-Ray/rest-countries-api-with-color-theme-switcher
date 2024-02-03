@@ -75,7 +75,7 @@ const AllCountries = (props: CountryProps) => {
                         : i === 5
                           ? "rounded-b"
                           : "rounded-none",
-                      "flex h-full w-52 items-center bg-white p-4",
+                      "flex h-full w-52 items-center p-4",
                       props.darkMode ? "bg-dark-blue" : "bg-white",
                     )}
                   >
